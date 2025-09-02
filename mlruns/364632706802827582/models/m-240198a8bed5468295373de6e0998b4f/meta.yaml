@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ASUS/Desktop/MLOPS/MLFlow/mlruns/364632706802827582/models/m-240198a8bed5468295373de6e0998b4f/artifacts
+creation_timestamp: 1756577335508
+experiment_id: '364632706802827582'
+last_updated_timestamp: 1756577358639
+model_id: m-240198a8bed5468295373de6e0998b4f
+model_type: null
+name: model
+source_run_id: f05c8f419a0c4585ac5e79ee4e0cb0c0
+status: 2
+status_message: null

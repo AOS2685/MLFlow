@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ASUS/Desktop/MLOPS/MLFlow/mlruns/364632706802827582/850c49c78e304bc999d44dbd6c5b3476/artifacts
+end_time: 1756463938585
+entry_point_name: ''
+experiment_id: '364632706802827582'
+lifecycle_stage: active
+run_id: 850c49c78e304bc999d44dbd6c5b3476
+run_name: bemused-asp-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756463913936
+status: 3
+tags: []
+user_id: ASUS

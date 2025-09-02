@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ASUS/Desktop/MLOPS/MLFlow/mlruns/364632706802827582/models/m-d03bdf0df065403e8f3f1e41c76d371a/artifacts
+creation_timestamp: 1756463916413
+experiment_id: '364632706802827582'
+last_updated_timestamp: 1756463938540
+model_id: m-d03bdf0df065403e8f3f1e41c76d371a
+model_type: null
+name: Random-Forest-Model
+source_run_id: 850c49c78e304bc999d44dbd6c5b3476
+status: 2
+status_message: null

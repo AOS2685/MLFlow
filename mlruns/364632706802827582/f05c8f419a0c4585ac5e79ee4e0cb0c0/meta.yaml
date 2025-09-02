@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ASUS/Desktop/MLOPS/MLFlow/mlruns/364632706802827582/f05c8f419a0c4585ac5e79ee4e0cb0c0/artifacts
+end_time: 1756577361693
+entry_point_name: ''
+experiment_id: '364632706802827582'
+lifecycle_stage: active
+run_id: f05c8f419a0c4585ac5e79ee4e0cb0c0
+run_name: bold-ox-69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756577335185
+status: 3
+tags: []
+user_id: ASUS
